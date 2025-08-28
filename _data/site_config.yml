@@ -95,6 +95,11 @@ frontpage_cards:
     button_label: Read more
     button_link: https://example.com
     rule_color: ''
+  - title: ONS
+    content: office for National statistics site
+    include: ''
+    button_label: ''
+    button_link: https://www.ons.gov.uk/
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
